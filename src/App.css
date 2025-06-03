@@ -40,3 +40,13 @@
 .read-the-docs {
   color: #888;
 }
+/* index.css или App.css */
+.dark-mode {
+  background-color: #111;
+  color: #eee;
+}
+
+.light-mode {
+  background-color: #fff;
+  color: #000;
+}
